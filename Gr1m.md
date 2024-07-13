@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Gr1mj0w
-- 👀 I’m interested in Pentesting and ethical hacking
-- 🌱 I’m currently learning networking
+-👋 Hi, I’m @Gr1mj0w
+-👀 I’m a cybersecurity student specializing in computer networks, and I’m training in Red Team-oriented pentesting.
 - 📫 How to reach me huecomundoo@protonmail.com
 
